@@ -1,10 +1,6 @@
 # Armchair philosophizing
 
-Sitting down, thinking about all the possible ways the world can be and conclude that all of these ways must somehow involve the idea of god.
-
-There's no step in that process where you go out and look how the universe actually works.
-
-This kind of reasoning has never taught us anything true or interesting about the actual world.
+Sitting down, thinking about all the possible ways the world can be and conclude that all of these ways must somehow involve the idea of god. There's no step in that process where you go out and look how the universe actually works. This kind of reasoning has never taught us anything true or interesting about the actual world.
 
 This is not to say it isn't useful. This kind of thinking is extremely useful for things like logic, mathematics and formal inquiry that are not empirical in nature. They don't involve going around looking at the world, they reason in an a priori sense but they also don't reveal interesting truths about the actual world. Mathematics reveals consequences of axioms. It doesn't tell you which axioms are possibly true.
 
